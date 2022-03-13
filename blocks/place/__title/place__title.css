@@ -10,3 +10,21 @@
   letter-spacing: 0em;
   text-align: left;
 }
+
+@media screen and (max-width: 320px) {
+  .place__title {
+    margin-left: 16px;
+    margin-right: 16px;
+    font-size: 32px;
+    line-height: 35px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place__title {
+    margin-left: 24px;
+    margin-right: 24px;
+    font-size: 42px;
+    line-height: 46px;
+  }  
+}
