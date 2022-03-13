@@ -1,0 +1,6 @@
+.cover__background {
+  background-image: url(../../../images/__background.jpg);
+  width: 100%;
+  background-size: cover;
+  z-index: 1;
+}
