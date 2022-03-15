@@ -1,4 +1,4 @@
-# Проект: Путешествие по России
+﻿# Проект: Путешествие по России
 
 ### Обзор
 * Интро
@@ -7,7 +7,8 @@
 
 **Интро**
 
-GitHub Pages: https://pavel-rogozhkin.github.io/russian-travel/index.html
+GitHub Pages:
+https://pavel-rogozhkin.github.io/russian-travel/index.html
 
 Здесь будет проект о путешествии по России.
 В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
