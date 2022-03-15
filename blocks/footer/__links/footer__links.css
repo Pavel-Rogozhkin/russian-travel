@@ -1,8 +1,11 @@
 .footer__links {
   margin: 0;
+  padding: 0;
   display: flex;
   gap: 18px;
   color: #fff;
+  text-decoration: none;
+  list-style: none;
 }
 
 @media screen and (max-width: 670px) {
