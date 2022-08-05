@@ -13,5 +13,4 @@
 6) Псевдоэлементы
 7) Адаптивная вёрстка
 
-## Ссылка на проект:
-https://pavel-rogozhkin.github.io/russian-travel
+### [Ссылка на проект](https://pavel-rogozhkin.github.io/russian-travel)
